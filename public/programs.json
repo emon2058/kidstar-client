@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Color Matching",
+        "seat": "25",
+        "age": "3-5",
+        "price": "300",
+        "description": " look great, like old-timey light bulbs with filaments and put off a nice, warm light. I’m using them in my outdoor fixtures and don’t have to worry about CFL’s and their terrible cold weather performance, plus they look better and I don’t have to feel guilty about leaving them on all night.” Another notes the 'pretty elements in the bulb' and says the lower-intensity 25-watt equivalence was just right for their kitchen light fixture.",
+        "img": "https://images.unsplash.com/photo-1613950190144-4f2a84c75e8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Learning Disciplines",
+        "price": "100",
+        "seat": "25",
+        "age": "3-5",
+        "description": "It’s really amazing to touch a button on an app and change the whole room (or house) to a certain color, and with Hue Labs you can do experimental features like colors blending into one another, one reviewer explains. Others add that the simplicity and easy installation is a big draw. The bulb featured here is a single smart bulb, capable of displaying a wide array of colors — 16 million, according to the company’s literature — and connecting to Alexa.",
+        "img": "https://images.unsplash.com/photo-1611153661566-9cb802ffe968?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=972&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Drawing",
+        "price": "150",
+        "seat": "34",
+        "age": "3-8",
+        "description": "These globe-style LED bulbs come with a standard base, and many reviewers buy them to outfit their bathroom vanities. They’re available in a range of color temperatures, and the choice mostly comes down to personal preference. Regardless of which version they have, reviewers praise the performance of these bulbs. “I ordered them for my bathroom and then my wife ended up doing her makeup in my bathroom because the light was so much better.",
+        "img": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Martial Art Class",
+        "price": "180",
+        "seat": "34",
+        "age": "3-8",
+        "description": "Ah-mazing quality of light. Brighter than the halogen GU 10s they replaced,” writes one, adding,These are [a warmer color] than your average LED lights and seem quite natural. All six of mine are installed in a ceiling track light situation and have consistent color of light, no noticeable variation. In addition to the quality of the light itself, another reason is that they generate significantly less heat than their halogen counterparts.",
+        "img": "https://images.unsplash.com/photo-1555597408-26bc8e548a46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFydGlhbCUyMGFydHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 5,
+        "name": "Music Class",
+        "price": "300",
+        "seat": "34",
+        "age": "3-8",
+        "description": "Wow these lights are great, remarks one five-star reviewer. They are nice and bright, instant on (love LEDs), and the dimmable functionality is great too. They don’t make the buzzing noise that some of the cheaper dimmable LEDs do. Will be buying more for the rest of our recessed lighting. After replacing their incandescent floodlights with these, one purchaser noticed. a marked improvement in light quality and heat output: These bulbs run much cooler.",
+        "img": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Sports",
+        "price": "100",
+        "seat": "34",
+        "age": "3-8",
+        "description": "I’m slowly switching out regular incandescent bulbs for these new LED bulbs on the chandelier in my living room, writes one reviewer. The LED lights are so much brighter than the regular ones, and they last a lot longer.Chandelier is LED-lit, I’m already planning a celebration party also mentions the long life of LED bulbs.",
+        "img": "https://images.unsplash.com/photo-1622659097509-4d56de14539e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": 7,
+        "name": "Study",
+        "price": "150",
+        "seat": "34",
+        "age": "3-8",
+        "description": "Nearly 15 percent of all five-star reviewers comment on how much they like they way these LED bulbs dim. This bulb, unlike many other dimmable LEDs, will actually smoothly dim all the way from full bright to off, says one customer. Another is so happy with these bulbs, they’re considering replacing all the bulbs in his house with them: The savings is so great that we can well afford to throw away the old light bulbs in favor of these.",
+        "img": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=648&q=80"
+    },
+    {
+        "id": 8,
+        "name": "soft light bulbs",
+        "price": "180",
+        "seat": "34",
+        "age": "3-8",
+        "description": "Purchasers recommend this 16-pack of LED bulbs on account of the trustworthiness of the AmazonBasics brand and the strong value for their money, as mentioned by one reviewer who reports being happy after “finally decided to buy bulk.” They’re available in a range of color temperatures, but many like the soft white. Reviewers do note that like many LED bulbs, but if you’re fine with that, these come endorsed by over 1,500 five-star reviews.",
+        "img": "https://images.unsplash.com/photo-1508705854614-be8c5cfdf17e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTYwfHxkZWNlbnQlMjBsaWdodHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id": 9,
+        "name": "Great Eagle A19 LED Bulb",
+        "price": "100",
+        "seat": "34",
+        "age": "3-8",
+        "description": "Over 90 percent of the reviewers give these bulbs five-stars, with many highlighting the brightness of the light they put out and the affordability of this four-pack. “Great value for the cost per bulb,” writes one reviwer, one of dozens who uses the word “value” in their review. Another shares a more nuanced review: I have a love-hate relationship with these lights. They are so bright and light up so well, I love it. Oh yeah, the hate relationship part.",
+        "img": "https://images.unsplash.com/photo-1492037766660-2a56f9eb3fcb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGRlY2VudCUyMGxpZ2h0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id": 10,
+        "name": "Frosted Light Bulb",
+        "price": "300",
+        "seat": "34",
+        "age": "3-8",
+        "description": "Over 2,500 purchasers give a five-star rating to this multipack of standard-sized LED bulbs from Philips. They’re available in two different color temperatures: soft white and daylight. Both have their own draw, but in general, purchasers seem to prefer the slightly brighter daylight bulb for general use in their homes. One reviewer explains, “We had warm or soft white incandescent bulbs throughout the house.",
+        "img": "https://images.unsplash.com/photo-1494386346843-e12284507169?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGRlY2VudCUyMGxpZ2h0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    }
+]
